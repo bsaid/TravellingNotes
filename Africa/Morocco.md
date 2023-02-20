@@ -8,10 +8,10 @@
 
 ## Places
 
-## Marrakech
+### Marrakech
 
-## Casablanca
+### Casablanca
 
-## Tanger
+### Tanger
 
-## Fes
+### Fes
