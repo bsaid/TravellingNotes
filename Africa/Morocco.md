@@ -4,6 +4,12 @@
 - Trains: [https://www.oncf-voyages.ma/](https://www.oncf-voyages.ma/)
   - The website [https://www.oncf.ma/](https://www.oncf.ma/) looks deprecated.
   - Compatible with Supratours bus lines [https://www.supratours.ma/](https://www.supratours.ma/). It is possible to buy one ticket for train and corresponding Supratours bus.
+  - Tickets are sold at the train station, the price does not change with time. It is usually possible to buy a ticket 30 min before departure.
+  - There may be long queues at the ticket counters.
+  - The ticket machines and online ticket reservation system probably does not accept interational credit/debit cards.
+  - First class is only a litle bit more expensive than the second class.
+  - Second class is usually 8 places in a coupe, First class usually 6 places. (Bmz, Bmpz types, sometimes Ampz)
+  - Usually old style toilets, but sometimes they have vacuum toilets in the first class.
 - CTM buses: [https://ctm.ma/](https://ctm.ma/)
 - Taxi:
   - Petit taxi (small, usually red) operate only inside cities, they do not take you to the airport.
@@ -28,6 +34,19 @@
 - Booking: [https://booking.com/](https://booking.com/)
   - Some properties on Booking are scam only. Some of them do not exist and they will try to charge you as "not arrived".
   - Check description and conditions for the properties. If the property asks you for a payment outside booking.com (for example PayPal), there is high probability of dishonest beahvior.
+
+## Money
+- Revolut: [https://revolut.com/](https://revolut.com/referral/bedric1jpv!FEB2-23-AR-H1)
+- Western Union: [https://www.westernunion.com/](https://www.westernunion.com/)
+- I do not recommend to take Moroccan money outside the country, they have some restrictions about that. Maybe we are allowed to take up to 2000 MAD through the Morrocan border.
+- Exchange offices are usually very expensive, especially at the airports.
+- ATMs usually accept international debit cards, the withdrawal fee is between 30 - 35 MAD. (Plus the fees charged by your bank.)
+
+## Phone and data
+- Maroc Telecom has better coverage outside cities. Inwi is slightly cheaper.
+- SIM card costs 30 MAD, plus 10 MAD for each 1 GB of data. They have separate credit for calls and for data.
+- I recommend to top up around 10 MAD for calls (when you need to call the local hotel, hostel, accomodation) and 20+ MAD for the data based on your needs.
+- SIM cards can be easily purchased in the cities, they are usually expensive at the airports.
 
 ## Places
 
